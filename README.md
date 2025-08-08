@@ -108,13 +108,3 @@ This project is licensed under the [MIT License](LICENSE).
 * [Flask](https://flask.palletsprojects.com/)
 * [PyPDF2](https://pypi.org/project/PyPDF2/)
 * [PDF.js](https://mozilla.github.io/pdf.js/) (if preview support is added)
-
----
-
-
-```
-
----
-
-Let me know if you want a version tailored for **deployment** (like Heroku, Docker, etc.) or **offline-only use**. I can also help generate the actual `requirements.txt` or a sample `app.py` if needed.
-```
